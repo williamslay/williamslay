@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am williams and I am currently finishing my Computer Scinence bachelor degree at the NanJing university of Post and Telecommunications!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/williamslay/williamslay/blob/main/Silhouette-of-Glenn-Gould.-Courtesy-Library-and-Archives-Canada.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
