@@ -4,13 +4,12 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/williamslay)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:williamslay.lsy@gmail.com)
 
-Welcome to my Github page! I am williams and I am currently finishing my Computer Scinence bachelor degree at the NanJing university of Post and Telecommunications!  
+Welcome to my Github page! I am williams and I have finished my Computer Scinence bachelor degree at the NanJing university of Post and Telecommunication!!  
 
 <img align="right" alt="img" src="https://github.com/williamslay/williamslay/blob/main/Silhouette-of-Glenn-Gould.-Courtesy-Library-and-Archives-Canada.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Scinence Bachelor Degree  
 - Taking online courses about Software Secruty and Programming Language
 - Trying to pass the nathional entrance examination for postgraduate(NEEP) for a postgraduate education
 
